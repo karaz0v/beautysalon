@@ -1,6 +1,6 @@
 # beautysalon
 
-Criado na Missão Origin na NLW Together, da RocketSeat!
+Criado na Missão Origin na NLW Together, da RocketSeat! 💜
 
 Missão criada para quem está começando do zero e quer descobrir o caminho para evoluir.
 
