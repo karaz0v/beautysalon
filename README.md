@@ -1,10 +1,8 @@
-# beautysalon
+# Beautysalon
 
 Projeto criado na Missão Origin na NLW Together, da RocketSeat! 💜
 
-Missão criada para quem está começando do zero e quer descobrir o caminho para evoluir.
-
-Todos os códigos estão separados por parte, são duas partes no total divididas em pequenos processos, os códigos da terceira e quarta aula são o resultado final. 🔥
+Página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer 🔥
 
     Criado com as Tecnologias
 
