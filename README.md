@@ -11,9 +11,9 @@ Página institucional no formato One Page, responsiva, para usar em diversos tip
 
     Criado com as Tecnologias
 
--  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
--  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
--  [JavaScript](https://www.javascript.com/)
+-  HTML
+-  CSS
+-  JavaScript
 
 <br>
 <br>
