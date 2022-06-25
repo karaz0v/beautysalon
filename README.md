@@ -14,8 +14,9 @@ Página institucional no formato One Page, responsiva, para usar em diversos tip
 -  HTML
 -  CSS
 -  JavaScript
-
+<br>
+  
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./license) para mais detalhes.
 <br>
 <br>
-
 See you, baby ❤️
